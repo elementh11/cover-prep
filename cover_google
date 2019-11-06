@@ -1,27 +1,9 @@
-With this letter I would like to apply for the Google AI Residency program starting in the Spring 2020. My research interests encompass deep learning neural networks, with a focus on finding novel architectures and improving the learning algorithms. More specific, I would like to work in developing AI systems that can help design and optimize other AI systems. The ideas will be to have concurent NN training together, similar to the GANs, or NN develop new architectures and algorithms for solving specific problems. On the practical side this will facilitate independent communication between AI systems, and AI expert systems providing unconventional solutions to contemporary problems. To give just some ideas, for example a fleet of drones communicating in their own developed language, and training together in a descentralized manner, or developing novel materials and propulsion techniques for deep space travel.
 
-Google has clearly the best capabilities for this: the most comprehensive data collections and the computational infrastructure that can help solving such tasks. Last but not least, Google has the incredibly talented people who can make a difference. This is why the AI Residency program will be of tremendous help for me to explore my research interests and to achieve my goals.
-
-My background is in Physics, I have a PhD degree in theoretical Physics. I worked in both the national lab and academia environments, and, mostly in academia, the "currency" is peer-reviewed publications. You will find in my Google Scholar page that my research span a wide variety of topics, and so I would like to apply my Physics technical background to the AI field. I believe that I can leverage my skills to further AI research. For example, how about using the Fermi-Dirac distribution function as an activation function for certain neural networks, or conversely, how about using machine learning optimization techniques as a new way of designing materials with specific properties? I found the deep learning subfield of the machine learning to be truly amazing, and something that I definitely want to pursue. 
-
-openness, sharing new ideas, teamwork
-finding what energizes you and makes you passionate about it
-problems applicable to real life
+With this letter I would like to apply for the 2020 Google AI Residency program. My AI journey started completely by chance about one and a half years ago, after winning a Google sponsored developer challenge. A few scholarships later, I discovered an entire new world out there, and so my interests shifted from the traditional physics research (I have a PhD degree in theoretical physics) to the field of deep learning, more specifically to the neural network architectures and optimization algorithms. For example, I was amazed to see how a change to a relatively simpler model architecture (the Transformer model), combined with an attention mechanism, provides significant improvements to translation problems with less training. Replacing the recurrent neural networks, previously considered the state-of-the-art, with self-attention resulted in a superior model that apparently generalizes well to other tasks.
+Is it this kind of innovative, unconventional approaches that I would like to get involved in. I often go to sleep dreaming of the future: I foresee fleets of drones training together in a decentralized manner and communicating with each other in their own developed language, or powerful AI expert systems coming with their own solutions to real problems. We need to create the AI for a better and safer future that will benefit all of the people.
+As such, I would like to use my physics technical background to benefit the neural networks research. As an example, one can use the Fermi-Dirac function (describing the distribution of fermionic systems in condensed matter physics) as an activation function for certain network layers, thus enabling a new (learnable or tunable) local parameter: a neural network temperature. There are also various mixing and screening techniques, devised especially to accelerate the convergence of ab-initio self-consistent calculations for physical systems, which may be adapted to deep neural networks. Conversely, one can use deep reinforcement learning inspired optimizations to design novel materials with prescribed properties. In fact, several projects that I am currently involved in concern the use of such principles to control the heat and charge currents and enhance the heat to charge conversion efficiency. Instead of proposing models and testing them (conventional trial-and-error), one lets the algorithm build its own optimized model.
+I truly believe that Google is the perfect place to pursue such research. Besides having the infrastructure, there is the environment of openness and sharing new ideas. Being currently part of the academia, I know that the true “currency” here is solely peer-reviewed publications, and this somehow stopped resonating with me. I would like to work on real world projects, projects that excite me, and that are applicable to real life. Last but not least, there are the amazingly talented people that you want to be surrounded by.
+I hope that you will find my research interests aligned to those of Google’s, and that you will consider me to be a good match for the AI Residency program.
+Looking forward to a great journey ahead,
 
 
-
-
-
-
-
-Primary questions:
-1. What are your primary research interests and why do you think they are important?
-2. How would participating in the AI Residency help you to explore your research interests and achieve your goals?
-3. Give an example of an open-ended research question or project you’ve worked on. What made it challenging and how did you overcome those challenges? Alternatively, summarize and critique a machine learning paper you have read that you found interesting.
-
-Other:
-How does your previous experience influence your interests and intuitions, and how can you leverage your skills to further research at Google?
-Do you have the potential to excel?
-What will you gain from Residency?
-What will you contribute to Google’s research?
-What will you contribute to Google’s culture?
